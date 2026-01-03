@@ -1,0 +1,30 @@
+# OS / junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Dependencies
+node_modules/
+vendor/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Builds
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
